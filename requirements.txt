@@ -1,4 +1,4 @@
 streamlit
 pandas
 yfinance
-import get_data
+get_data
