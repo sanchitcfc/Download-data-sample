@@ -1,4 +1,4 @@
 streamlit
 pandas
 yfinance
-from yahoo_fin.stock_info import get_data
+import get_data
